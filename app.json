@@ -1,0 +1,12 @@
+{
+  "name": "PruebaT",
+  "displayName": "PruebaT",
+  "expo": {
+    "name": "PruebaT",
+    "slug": "PruebaT",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
